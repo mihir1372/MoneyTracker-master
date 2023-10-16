@@ -1,0 +1,19 @@
+export const GET_GROUPS = "GET_GROUPS";
+export const DELETE_GROUP = "DELETE_GROUP";
+export const ADD_GROUP = "ADD_GROUP";
+
+export const GET_USERPROFILE = "GET_USERPROFILE";
+export const DELETE_USERPROFILE = "DELETE_USERPROFILE";
+export const ADD_USERPROFILE = "ADD_USERPROFILE";
+
+export const USER_LOADING = "USER_LOADING";
+export const USER_LOADED = "USER_LOADED";
+export const AUTH_ERROR = "AUTH_ERRORS";
+
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
